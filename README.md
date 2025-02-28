@@ -1,3 +1,4 @@
+[Plugin]<br/>
 Target Version: MC 1.21 (Java 21)
 
 # No Ender Pearl Teleportaion Damage
