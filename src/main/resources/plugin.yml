@@ -1,0 +1,6 @@
+name: NoEnderPearlDamage
+version: '1.0'
+main: org.hoshizora.noenderpearldamage.Main
+api-version: '1.21'
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.23
